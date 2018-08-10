@@ -1,0 +1,16 @@
+#// comments
+#Sun Jul 16 09:45:11 EDT 2017
+email.smtp.subject=EDT Bill4Time User Verification Report
+
+mail.smtp.auth=true
+mail.smtp.starttls.enable=true
+
+email.smtp.user=
+email.smtp.password=
+
+email.smtp.to=
+email.smtp.from=DL-Bill4Time-Admin@EagleDream.com
+mail.smtp.host=outlook.office365.com
+mail.smtp.port=587
+
+image.header="https://thegatheringfire.files.wordpress.com/2014/11/winter-snow-river.jpg" width="50%" height="50%"
