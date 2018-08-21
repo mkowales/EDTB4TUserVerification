@@ -161,7 +161,7 @@ public class EDTB4TVerify
         }
 		
         EDTB4TVerify.println(Str.CR + "<tr>");
-        EDTB4TVerify.println(Str.CR + "<td colspan=\"4\"><center>" + emps.size() + " Users Costing EDT $" + (emps.size() * 5) + "</center></td>");
+        EDTB4TVerify.println(Str.CR + "<td colspan=\"4\"><center>" + emps.size() + " Users Costing EDT $" + (emps.size() * 10) + "</center></td>");
         EDTB4TVerify.println(Str.CR + "</tr>");
 
 		EDTB4TVerify.println(Str.CR + "</table>");
